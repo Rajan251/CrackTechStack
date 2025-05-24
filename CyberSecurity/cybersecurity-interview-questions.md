@@ -1,6 +1,4 @@
-Here's the markdown code for your cybersecurity questions:
 
-```markdown
 # Basic Cyber Security Questions
 
 Some basic questions that are very fundamental in nature, are directly or sometimes in-directly related to Cyber Security. These help establish some baseline, and everytime when one of these questions are asked, try to align the answer to Cyber Security. Also, when answering these, try not to miss the basic points, often the interviewer might want to hear some particular keyword, so dont rush on hearing a easy question, gather yourself and the answer and answer it.
@@ -316,4 +314,4 @@ These are totally random questions, makes less sense to judge on ( personal Opin
 - iOS is more secure compared to Android ?
 - Are you a Linux user or Windows ? Which is more secure ? Why you think so ?
 - What is Dark Web, and how is it different compared to Deep Web ?
-```
+
